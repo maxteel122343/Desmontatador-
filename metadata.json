@@ -1,0 +1,6 @@
+{
+  "name": "PostMorph",
+  "description": "Desmonte imagens de posts e interfaces em elementos interativos editáveis. Redimensione, mude cores, rotacione, edite textos, adicione botões de 'Ler Mais' e aplique efeitos de blur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
